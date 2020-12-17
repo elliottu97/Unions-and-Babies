@@ -1,5 +1,5 @@
 # Unions-and-Babies
-Evaluating the effects being part of a labor union increases annual income with Stata.
+Evaluating whether or not being part of a labor union increases annual income with Stata.
   -Check for statistical significance
   -Locate outliers
   -Manage data with outliers using trimming and winsorizing
